@@ -18,6 +18,6 @@ curl https://raw.githubusercontent.com/gitile/linux_shell/master/centos/install_
 
 - [Docker常见命令](https://github.com/gitile/docker-study/blob/master/docker/1.docker_command.md)
 - [Docker实用命令](https://github.com/gitile/docker-study/blob/master/docker/2.docker_operation.md)
-- [阿里云镜像操作指南](https://github.com/gitile/docker-study/blob/master/docker/3.aliyun_docker_operation.md)
+- [阿里云镜像服务操作指南](https://github.com/gitile/docker-study/blob/master/docker/3.aliyun_docker_operation.md)
 
 
