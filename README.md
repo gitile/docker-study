@@ -5,13 +5,13 @@
 1、初始化系统
 
 ``` powershell?linenums
-curl https://raw.githubusercontent.com/gitile/linux_shell/master/centos/init_centos.sh|sh
+curl https://raw.githubusercontent.com/gitile/docker-study/master/centos/init_centos.sh|sh
 ```
 
 2、安装docker
 
 ``` powershell?linenums
-curl https://raw.githubusercontent.com/gitile/linux_shell/master/centos/install_docker.sh|sh
+curl https://raw.githubusercontent.com/gitile/docker-study/master/centos/install_docker.sh|sh
 ```
 
 # 学习资料整理
