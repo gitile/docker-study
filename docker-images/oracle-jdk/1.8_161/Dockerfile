@@ -1,4 +1,4 @@
-FROM registry.cn-hangzhou.aliyuncs.com/tulingfeng/centos-base
+FROM 19880909/centos-base
 
 MAINTAINER tulingfeng "xtotly@aliyun.com"
 
